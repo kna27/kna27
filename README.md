@@ -19,12 +19,22 @@
 <br>
 
 ### Languages and Tools I use
-[<img src='https://github.com/kna27/kna27/blob/8616a5570f90391141271c543d0ac95df1a9353a/icons/c%23.png' alt='c#' height='40'>]()
-[<img src='https://github.com/kna27/kna27/blob/8616a5570f90391141271c543d0ac95df1a9353a/icons/java.png' alt='java' height='40'>]()
-[<img src='https://github.com/kna27/kna27/blob/8616a5570f90391141271c543d0ac95df1a9353a/icons/python.png' alt='python' height='40'>]()
-[<img src='https://github.com/kna27/kna27/blob/8616a5570f90391141271c543d0ac95df1a9353a/icons/js.png' alt='javascript' height='40'>]()
-[<img src='https://github.com/kna27/kna27/blob/8616a5570f90391141271c543d0ac95df1a9353a/icons/html.png' alt='html' height='40'>]()
-[<img src='https://github.com/kna27/kna27/blob/8616a5570f90391141271c543d0ac95df1a9353a/icons/css.png' alt='css' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/c%23.png' alt='c#' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/unity.png' alt='unity' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/java.png' alt='java' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/python.png' alt='python' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/js.png' alt='javascript' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/html.png' alt='html' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/css.png' alt='css' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/blender.png' alt='blender' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/vscode.png' alt='vscode' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/visualstudio.png' alt='visualstudio' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/nodejs.png' alt='nodejs' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/sublime.png' alt='sublime' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/photoshop.png' alt='photoshop' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/premiere.png' alt='premiere' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/resolve.png' alt='resolve' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/hammer.png' alt='hammereditor' height='40'>]()
 
 ### My GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kna27&show_icons=true&count_private=true)
