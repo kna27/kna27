@@ -18,6 +18,12 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/krish-arora-33144820b/)
 <br>
 
+### Languages and Tools I use
+[<img src='https://github.com/kna27/kna27/blob/4d30f6392a41b951894987ba5108914ddd57da46/icons/c%23.png' alt='c#' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/4d30f6392a41b951894987ba5108914ddd57da46/icons/java.png' alt='java' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/4d30f6392a41b951894987ba5108914ddd57da46/icons/python.png' alt='python' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/4d30f6392a41b951894987ba5108914ddd57da46/icons/js.png' alt='javascript' height='40'>]()
+
 ### My GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kna27&show_icons=true&count_private=true)
 
