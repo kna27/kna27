@@ -1,5 +1,7 @@
 ## Hello! I'm Krish
 
+![](https://visitor-badge.laobi.icu/badge?page_id=kna27.kna27)
+
 ### I am a student interested in programming and aerospace engineering.
 
 - I'm currently working on [KSP Data Export](https://github.com/kna27/ksp-data-export) and [Datestamp Adder](https://github.com/kna27/datestamp-adder)
