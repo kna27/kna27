@@ -17,6 +17,8 @@
 <br>
 
 ### My GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kna27&show_icons=true&count_private=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kna27&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kna27&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kna27)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kna27)  
