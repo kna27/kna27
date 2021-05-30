@@ -37,8 +37,8 @@
 [<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/hammer.png' alt='hammereditor' height='40'>]()
 
 ### My GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kna27&show_icons=true&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kna27&show_icons=true&count_private=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kna27)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kna27&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kna27)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kna27&theme=dark)](https://git.io/streak-stats)
