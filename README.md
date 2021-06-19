@@ -38,5 +38,3 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kna27&show_icons=true&count_private=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kna27&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kna27&theme=dark)](https://git.io/streak-stats)
