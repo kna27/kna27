@@ -3,7 +3,7 @@
 ### I am a student interested in programming and aerospace engineering.
 
 - I'm currently working on [KSP Data Export](https://github.com/kna27/ksp-data-export)
-- I want to learn C, C++, and Unreal Engine in the future
+- I want to learn C and Unreal Engine in the future
 - I enjoy playing Kerbal Space Program and making mods for the game
 
 ### My socials
@@ -20,6 +20,7 @@
 [<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/java.png' alt='java' height='40'>]()
 [<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/python.png' alt='python' height='40'>]()
 [<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/js.png' alt='javascript' height='40'>]()
+[<img src='https://github.com/kna27/kna27/blob/40ceca669ea9a21c9213e26f44aeaff42db25e80/icons/cpp.png' alt='c++' height='40'>]()
 [<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/html.png' alt='html' height='40'>]()
 [<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/css.png' alt='css' height='40'>]()
 [<img src='https://github.com/kna27/kna27/blob/3c8efda5b5255a50818fcecb7264cbdee4b448f2/icons/blender.png' alt='blender' height='40'>]()
