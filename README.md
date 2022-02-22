@@ -6,7 +6,7 @@
 - I want to learn C and Unreal Engine in the future
 - I enjoy playing Kerbal Space Program and making mods for the game
 
-### My socials
+### Contact
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kna27.github.io)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kna27)
