@@ -2,9 +2,6 @@
 
 ### I am a student interested in programming and aerospace engineering.
 
-- I'm currently working on [KSP Data Export](https://github.com/kna27/ksp-data-export)
-- I want to learn C and Unreal Engine in the future
-- I enjoy playing Kerbal Space Program and making mods for the game
 
 ### Contact
 
