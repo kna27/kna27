@@ -1,6 +1,6 @@
 ## Hello! I'm Krish
 
-### I am a student interested in programming and aerospace engineering.
+### I am a student interested in programming and cybersecurity.
 
 
 ### Contact
